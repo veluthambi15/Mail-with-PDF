@@ -1,2 +1,2 @@
-# Mail with PDF
- Sending a mail with pdf attachment
+# Java-Mail-With-PDF-Attachment
+ Java-sending mail with the pdf attachment
